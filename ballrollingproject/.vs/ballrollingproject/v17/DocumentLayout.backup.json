@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|c:\\users\\2326296\\downloads\\ballrollingproject\\ballrollingproject\\assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|c:\\users\\2326296\\downloads\\ballrollingproject\\ballrollingproject\\assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\assets\\scripts\\scenetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\assets\\scripts\\levelmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\assets\\scripts\\camerabehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerabehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:55:03.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinScript.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinScript.cs",
+              "ToolTip": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:48:14.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\SceneTransfer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTransfer.cs",
+              "ToolTip": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\SceneTransfer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:31:52.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelMover.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\LevelMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelMover.cs",
+              "ToolTip": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\LevelMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:29:45.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\CameraBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraBehaviour.cs",
+              "ToolTip": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\CameraBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:28:15.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "C:\\Users\\2326296\\Downloads\\ballrollingproject\\ballrollingproject\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:10:47.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
