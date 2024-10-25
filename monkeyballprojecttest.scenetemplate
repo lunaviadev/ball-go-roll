@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: monkeyballprojecttest
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 71f4c908990cd3244a39676b243579de, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2100000, guid: bc7eff99045818b479c5033c54f9b344, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 8b49058554b559c4ab14dbaf7d57f520, type: 2}
+    instantiationMode: 0
+  - dependency: {fileID: 2100000, guid: 7e26cd21aad55374e8cebe1df9044d7a, type: 2}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
