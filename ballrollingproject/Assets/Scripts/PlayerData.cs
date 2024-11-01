@@ -5,11 +5,4 @@ using UnityEngine;
 namespace PlayerSettings
 {
 
-    public class PlayerData : MonoBehaviour
-    {
-        public int score;
-       
-    }
-
-    
 }
