@@ -5,7 +5,6 @@ using static UnityEngine.GridBrushBase;
 
 public class LevelMover : MonoBehaviour
 {
-
     private Rigidbody rb;
 
     [SerializeField] private float speed;
@@ -25,16 +24,9 @@ public class LevelMover : MonoBehaviour
         float moveHorizontal = Input.GetAxis("Horizontal") * speed;
         float moveVertical = Input.GetAxis("Vertical") * speed;
 
-
         Vector3 moveForward = new Vector3(moveVertical * Time.deltaTime, 0, moveHorizontal * Time.deltaTime);
 
         currentValue = moveForward;
         transform.Rotate(moveForward);
-
-
-
-
-
     }
-
 }
