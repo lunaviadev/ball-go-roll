@@ -27,25 +27,14 @@ public class LevelMover : MonoBehaviour
 
 
         Vector3 moveForward = new Vector3(moveVertical * Time.deltaTime, 0, moveHorizontal * Time.deltaTime);
+
         currentValue = moveForward;
         transform.Rotate(moveForward);
 
-        /*if (Input.GetKey(KeyCode.W))
-        {
-            Debug.Log("Thing work");
-            Vector3 moveForward = new Vector3(0, 0, 100);
-            rb.AddTorque(moveForward);
-            return;
-        }
 
-        if (Input.GetKey(KeyCode.S))
-        {
-            Debug.Log("Other thing work");
-            Vector3 moveBack = new Vector3(100, 0, 0);
-            rb.AddTorque(moveBack);
-            return;
-        }*/
+
 
 
     }
+
 }
