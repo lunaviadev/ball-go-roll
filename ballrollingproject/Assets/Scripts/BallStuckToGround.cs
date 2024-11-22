@@ -10,7 +10,7 @@ public class BallStuckToGround : MonoBehaviour
 
     void Start()
     {
-
+        rb = GetComponent<Rigidbody>();
     }
 
     void FixedUpdate()
@@ -21,10 +21,6 @@ public class BallStuckToGround : MonoBehaviour
             groundNormal = hit.normal;
             Vector3 targetPosition = hit.point + groundNormal * groundDistance;
             rb.MovePosition(targetPosition);
-        }
-        else
-        {
-            Debug.LogWarning("Ground not detected below the ball.");
         }
     }
 }

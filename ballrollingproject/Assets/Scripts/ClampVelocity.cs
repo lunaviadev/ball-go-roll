@@ -1,29 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using UnityEngine;
 
 public class ClampVelocity : MonoBehaviour
 {
-    [SerializeField] private Vector3 Velocity;
-    [SerializeField] private Rigidbody BallRigid;
+    [Range(-1000000f, 0f)] public float downwardForce = -500000f;
+    private Rigidbody _rb;
 
+    private void Start() => _rb = GetComponent<Rigidbody>();
 
-    private void Start()
+    private void FixedUpdate()
     {
-        BallRigid = GetComponent<Rigidbody>();
+        _rb.AddForce(0f, downwardForce, 0f);
     }
 
-    private void Update()
-    {
-        Velocity = BallRigid.velocity;
-
-        Vector3 velocityClamp = new Vector3(ClampVector(Velocity.x), ClampVector(Velocity.y), ClampVector(Velocity.z));
-
-        BallRigid.velocity = velocityClamp;
-    }
-
-    private float ClampVector(float vectorValue)
-    {
-        return Mathf.Clamp(vectorValue, -10, 10);
-    }
 }
