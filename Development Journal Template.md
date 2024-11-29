@@ -133,6 +133,10 @@ public class ClampVelocity : MonoBehaviour
 To finish off and make the game feel like a complete package I implemented a few smaller features required by the task outline and implemented them into the project.
 ```
 
+```csharp
+
+```
+
 ## Outcome
 
 Here are a variety of links that lead to the game's gameplay being demonstrated, alongside a link to view the github repository online and download the current build of the game for yourself through Itch.io
@@ -146,44 +150,32 @@ Here are a variety of links that lead to the game's gameplay being demonstrated,
 
 ### What did or did not work well and why?
 
-- the game concept was good but needs more refinement.
-- the physics based movement works well in practise but hard to control if you do not get used to it, better tutorials could ahve fixed this.
+```markdown
+Looking back on the completed work and the finished product for the ball project, I feel the strongest part of the project was its concept in general and the way it was executed in practice. The concept of using the stage to move the ball is a loop that could definitely be expanded upon by adding various other features and has a lot of room for improvement.
 
-- What did not work well? What parts of the assignment that you felt did not fit the brief or ended up being lacklustre.
-- What did you think went very well? Were there any specific aspects you thought were very good?
+On the other hand, I feel there is a lot to be desired, specifically the way in which the controls feel in execution and how they can be quite slippery and feel unintuitive if you don't immediately gain an affinity for the control scheme.
+
+The one level I did end up creating was also fairly basic in terms of what it had on display and what actual gameplay was on offer, this can easily be fixed through just blocking out and creating more levels if I were to reapproach this product.
+```
 
 ### What would you do differently next time?
 
-- more research into physics based movement.
-- add audio for polish
-- make more levels.
+```markdown
+If I were to revisit the project I would definitely look a bit more into the physics based movement that unity has to offer and see if there any other alternatives or methods to create smoother controls, the current implemented methods can feel a bit unintuitive at points due to their rudimentary nature.
 
-- Are there any new approaches, methodologies or different software that you wish to incorporate if you have another chance?
-- Is there another aspect you believe should have been the focus?
+I think I would also go back and add sound effects and audio functionality into the game where possibe just to give the game a bit more personality and style to overall enhance the experience for the user.
+
+Ultimately I would also just create more levels to add more replayability to the game and give a bit more content.
+```
 
 ## Bibliography
 
-
+https://docs.unity3d.com/ScriptReference/Transform-eulerAngles.html
+https://docs.unity3d.com/ScriptReference/Vector3.html
+https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Mathf.Clamp.html
+https://docs.unity3d.com/ScriptReference/Transform.html
 
 ## Declared Assets
-
-- Please use the [harvard referencing convention](https://mylibrary.uca.ac.uk/referencing).
-
-Infinity Blade: Adversaries in Epic Content - UE Marketplace (s.d.) At: https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-enemies (Accessed  09/09/2024).
-
----
-
-```Markdown
-# General Tips
-
-- Use plenty of images and videos to demonstrate your point. You can embed YouTube tutorials, your own recordings, etc.
-- Always reference! Even documentation, tutorials and anything you used for your assignment. Use an inline reference for the sentence and a bibliography reference at the end.
-- Word count is not important, you can also chose to use bullet points. As long as it is clear and readable, the format your decide to use can be flexible.
-- You are free to use AI but please ensure you have made a note in the declared assets, for example if you have a script called Test.cs , you should note that AI was used to in the creation of this script. You can use a bullet point list for each asset used like:
-
-The following assets were created or modified with the use of GPT 4o:
-- Test.cs
-- AnotherScript.cs
-- Development Journal.html
-
+```markdown
+I created all assets myself or used Unity's built in colour material system.
 ```
