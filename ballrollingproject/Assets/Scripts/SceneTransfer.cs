@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class SceneTransfer : MonoBehaviour
 {
     public void StartGameplay() {
-        SceneManager.LoadScene("monkeyballproject");
+        SceneManager.LoadScene("tutorial");
     }
 
     public void QuitGame() {

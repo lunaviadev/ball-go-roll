@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|c:\\users\\2326296\\documents\\github\\ball-go-roll\\ballrollingproject\\assets\\scripts\\levelmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\assets\\scripts\\scenetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenetransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|c:\\users\\2326296\\documents\\github\\ball-go-roll\\ballrollingproject\\assets\\scripts\\ballstucktoground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballstucktoground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|c:\\users\\2326296\\documents\\github\\ball-go-roll\\ballrollingproject\\assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|c:\\users\\2326296\\documents\\github\\ball-go-roll\\ballrollingproject\\assets\\scripts\\clampvelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clampvelocity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|c:\\users\\2326296\\documents\\github\\ball-go-roll\\ballrollingproject\\assets\\sceneend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\sceneend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\assets\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91114D1F-C2A4-9FB4-F488-F2E80BD70316}|Assembly-CSharp.csproj|solutionrelative:assets\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LevelMover.cs",
-              "DocumentMoniker": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\LevelMover.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelMover.cs",
-              "ToolTip": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\LevelMover.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LevelMover.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwDMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:53:55.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BallStuckToGround.cs",
-              "DocumentMoniker": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\BallStuckToGround.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BallStuckToGround.cs",
-              "ToolTip": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\BallStuckToGround.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BallStuckToGround.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "CoinScript.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinScript.cs",
+              "ToolTip": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\CoinScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:35:07.97Z",
+              "WhenOpened": "2024-12-06T16:30:22.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClampVelocity.cs",
-              "DocumentMoniker": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\ClampVelocity.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ClampVelocity.cs",
-              "ToolTip": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\ClampVelocity.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ClampVelocity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "SceneEnd.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\SceneEnd.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneEnd.cs",
+              "ToolTip": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\SceneEnd.cs",
+              "RelativeToolTip": "Assets\\SceneEnd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:34:22.45Z",
+              "WhenOpened": "2024-12-06T14:32:15.793Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\SceneTransfer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneTransfer.cs",
+              "ToolTip": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\Scripts\\SceneTransfer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:28:57.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reset.cs",
+              "DocumentMoniker": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\reset.cs",
+              "RelativeDocumentMoniker": "Assets\\reset.cs",
+              "ToolTip": "C:\\Users\\2326296\\Documents\\GitHub\\ball-go-roll\\ballrollingproject\\Assets\\reset.cs",
+              "RelativeToolTip": "Assets\\reset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:21:10.684Z"
             }
           ]
         }

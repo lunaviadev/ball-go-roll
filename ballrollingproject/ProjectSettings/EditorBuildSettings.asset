@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 80bf47ab44780c94e861ed6705f0845d
   - enabled: 1
-    path: Assets/Scenes/monkeyballproject.unity
-    guid: 71f4c908990cd3244a39676b243579de
+    path: Assets/Scenes/tutorial.unity
+    guid: 3b381cd12c4e24345b1936a0b737cac7
   m_configObjects: {}
