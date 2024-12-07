@@ -141,9 +141,9 @@ To finish off and make the game feel like a complete package I implemented a few
 
 Here are a variety of links that lead to the game's gameplay being demonstrated, alongside a link to view the github repository online and download the current build of the game for yourself through Itch.io
 
-- [Gameplay in action](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
-- [Github repository link](https://github.com/githubtraining/hellogitworld)
-- [Game demo on Itch.io](https://samperson.itch.io/desktop-goose)
+- [Gameplay in action](https://youtu.be/DmvX_e9-Br4)
+- [Github repository link](https://lunavia.itch.io/ball-roll-tech-demo)
+- [Game demo on Itch.io](https://lunavia.itch.io/ball-roll-tech-demo)
 
 
 ## Critical Reflection
